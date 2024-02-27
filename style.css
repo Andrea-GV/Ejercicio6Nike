@@ -1,0 +1,40 @@
+body{
+    margin: 0px;
+}
+.b-div{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    font-family: arial;
+}
+h3{
+    text-transform: capitalize;
+    margin-bottom: 1%;
+}
+.b-div-img{
+    margin: 1%;
+    width: 31%;
+    display: table-column;
+}
+img{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+}
+.b-div-price{
+    display: flex;
+    font-size: 20px;
+    margin-top: 2%;
+    font-style: bold;
+}
+.b-div-sh{
+    margin: 1%;
+    display: flex;
+    color: grey 
+}
+.b-div-sh-col{
+    margin-top: 1%;
+    font-weight: bolder;
+    font-family:sans-serif;
+}
